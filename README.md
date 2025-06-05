@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+#  Hospital Management System
 
 A web-based Hospital Management System built with **Python Django**. This project allows efficient management of patients, doctors, appointments, and medical records within a hospital setup.
 
