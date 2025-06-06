@@ -1,8 +1,8 @@
-#  Hospital Management System
+# Hospital Management System
 
 A web-based Hospital Management System built with **Python Django**. This project allows efficient management of patients, doctors, appointments, and medical records within a hospital setup.
 
-## 🚀 Features
+## Features
 
 - User authentication (Admin, Doctor, Patient roles)
 - Doctor management (Add, Update, Delete, View)
@@ -12,20 +12,20 @@ A web-based Hospital Management System built with **Python Django**. This projec
 - Dashboard for Admin and Doctors
 - Secure and responsive interface
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** Python, Django
 - **Frontend:** HTML, CSS, Bootstrap
 - **Database:** SQLite3 (default) – can be configured for PostgreSQL/MySQL
 - **Version Control:** Git, GitHub
 
-## 🧑‍💻 Roles
+##  Roles
 
 - **Admin:** Full control over doctors, patients, and appointments.
 - **Doctor:** View assigned patients, manage reports.
 - **Patient:** Book appointments, view status and medical history.
 
-## 📂 Project Structure
+##  Project Structure
 
 hospital/
 │
